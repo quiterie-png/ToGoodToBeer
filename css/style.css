@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Archivo+Black|News+Cycle|Saira+Extra+Condensed&display=swap");
+
+@import url("components/image.css");
+
+@import url("components/banner.css");
+
+@import url("components/button.css");
+
+@import url("components/card.css");
+
+@import url("components/container.css");
+
+
+
+
+
+
+body{
+  font-family:'News Cycle', sans-serif;
+  font-size: 18px;
+  margin: 0px;
+
+} 
+
+h1,h2,h3{
+ font-family: 'Saira Extra Condensed', sans-serif;
+ font-weight: bold;
+
+}
+
+
+a{
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a hover{
+	color:black;
+}
